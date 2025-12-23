@@ -1,0 +1,10 @@
+Input: the young man
+Trigram Output: the young man chaplin arriving at the time while there she spots another man bruce who is annoyed by his friend sir charles
+
+Input: once upon a
+Trigram Output: once upon a music hall performer who takes in chester and uses forensics with the daughter of uncle charlie follows and a 5yearold
+
+Input: he rejected the
+Trigram Output: he rejected the social ladder her first few plays are disastrous finally he lets the man he knows and is met by one
+
+(Note: LSTM Output requires evaluating the trained neural model)
